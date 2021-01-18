@@ -9,12 +9,12 @@
 	],
 "creatorBuild": "33081",
 "files": {
-	"/.gitignore": {
+	"/.gitignore/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/.gitignore",
+		"oAP": "/.gitignore/.gitignore",
 		"oF": 0
 		},
 	"/acf-json/group_5dd458c5a322b.json": {
@@ -278,8 +278,8 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/assets/js/global-min.js",
-		"oF": 2,
+		"oAP": "/assets/js/src/global-min.js",
+		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
@@ -289,8 +289,8 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/assets/js/smoothscroll-min.js",
-		"oF": 2,
+		"oAP": "/assets/js/src/smoothscroll-min.js",
+		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
@@ -793,6 +793,25 @@
 		"oAP": "/partials/blocks/post-listing.php",
 		"oF": 0
 		},
+	"/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"/screenshot.png": {
 		"ft": 32768,
 		"iS": 54705,
@@ -829,26 +848,6 @@
 		"oA": 0,
 		"oAP": "/single.php",
 		"oF": 0
-		},
-	"/style-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/style-min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"/style.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/style-min.css",
-		"oF": 0,
-		"oS": 3
 		}
 	},
 "hooks": [
@@ -857,7 +856,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 632663803.90137398,
-	"displayValue": "rushmark",
+	"displayValue": "Rushmark-Child",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets_orange",
 	"iconImageWasSetByUser": 0
