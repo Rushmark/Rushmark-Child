@@ -71,6 +71,46 @@
 		"oAP": "/assets/css/main.css.map",
 		"oF": 0
 		},
+	"/assets/css/uikit-rtl.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/assets/css/uikit-rtl-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/assets/css/uikit-rtl.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/assets/css/uikit-rtl.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/assets/css/uikit.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/assets/css/uikit-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/assets/css/uikit.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/assets/css/uikit.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/assets/icons/social/facebook.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -294,6 +334,50 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"/assets/js/src/uikit-icons.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/assets/js/src/uikit-icons-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/assets/js/src/uikit.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/assets/js/src/uikit-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/assets/js/uikit-icons.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/assets/js/uikit-icons.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/assets/js/uikit.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/assets/js/uikit.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"/assets/scss/editor-layout.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -319,6 +403,16 @@
 		"oF": 0,
 		"oS": 0,
 		"sct": 0
+		},
+	"/assets/scss/main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/assets/scss/main-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"/assets/scss/main.scss": {
 		"aP": 0,
@@ -745,14 +839,6 @@
 		"oAP": "/inc/wordpress-cleanup.php",
 		"oF": 0
 		},
-	"/inc/wpforms.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/inc/wpforms.php",
-		"oF": 0
-		},
 	"/offline.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -848,6 +934,16 @@
 		"oA": 0,
 		"oAP": "/single.php",
 		"oF": 0
+		},
+	"/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/style-min.css",
+		"oF": 0,
+		"oS": 3
 		}
 	},
 "hooks": [

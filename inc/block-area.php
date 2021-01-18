@@ -101,7 +101,7 @@ class rushmark_Block_Area {
 		));
 
 		if( $loop->have_posts() ): while( $loop->have_posts() ): $loop->the_post();
-			echo '<div class="block-area block-area-' . $location . '">';
+			echo '<div class="block-area block-arrushmark-' . $location . '">';
 			if( $has_wrap )
 				echo '<div class="wrap">';
 			the_content();
